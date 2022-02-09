@@ -47,7 +47,7 @@ jobs:
               sudo bash ./setup.sh
        
        - name: Download Stock Rom & Generate GSI
-         run: sudo bash ./url2GSI.sh -c --$BUILD_TYPE $ROM_URL $ROM_NAME
+         run: sudo bash ./miui_MI6_20.6.18_3f5b90d469_9.0.zip/url2GSI.sh -c --$BUILD_TYPE $ROM_URL $ROM_NAME
        
        - name: Zip GSI  
          run: |
