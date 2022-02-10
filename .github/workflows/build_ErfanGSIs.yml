@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/8.4.26/miui_MI6X_8.4.26_538e3b5272_8.1.zip
+  ROM_URL: https://bigota.d.miui.com/8.6.21/miui_HM6A_8.6.21_3b57a7080b_8.1.zip
   ROM_NAME: MIUI
   BUILD_TYPE: aonly
   TZ: Asia/Shanghai
