@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aab36bqm5z6xnmnsige25gdiqf3iw888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/M1816/7.1.2.2/cn/20200113115311/7670819e/update.zip?f_ver=v1&max_age=7776000&r=AkxNHRxQR2lQIEMBQio4BkRVXAQVH0YlWSQeKlw5JxQLSlxCKQYRK1NmfF0NenxMXRYIQ11EWmlVJx5eBXl6U1sJClxeX1t3B2YGWgJ7clJTXRYYHw4JMlNnSwVFBUhcAwwOBndZOVQCVi8kUg%3D%3D&ppiouid=620a00fdf74c40000122bfba2a37a9cd
-  ROM_NAME: Flyme
-  BUILD_TYPE: aonly
+  ROM_URL: https://bigota.d.miui.com/V11.0.1.0.QJCCNXM/miui_LANCELOT_V11.0.1.0.QJCCNXM_a6dd571ce0_10.0.zip
+  ROM_NAME: MIUI
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
