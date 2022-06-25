@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.3.1/miui_CEPHEUS_9.3.1_4b35fa76ec_9.0.zip
+  ROM_URL: https://hi64vdubfmpej3mqfeihrsgo237ai150eia51ce3pi5de1u8q3tvvjku.qc.x.bsgslb.cn:10443/xdispatch2a3a55398bd7903c/bigota.d.miui.com/9.3.1/miui_CEPHEUS_9.3.1_4b35fa76ec_9.0.zip?bsreqid=7de2b4f9d2fe6c33b31612d46171bf35
   ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
